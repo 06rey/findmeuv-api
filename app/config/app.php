@@ -1,12 +1,9 @@
 <?php
 
-// Pocket wifi ip: 192.168.8.100
-// Localhost ip: 192.168.42.140
-
 return [
 
 	'app_name' => 'fmu_api',
-	'app_url'	 => 'http://192.168.42.140',
+	'app_url'	 => 'http://localhost',
 
 	/**
 	 * -------------------------------------------------------
